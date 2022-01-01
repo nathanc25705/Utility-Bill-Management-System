@@ -12,6 +12,7 @@ This option should be provided via a menu choice.
 Year		Total Credited	Total Debited
 
 2016		€123.45		€678.90
+
 2017		€543.21		€987.60
 
 4.	Provide a report that shows the most popular utility company.  The most popular utility company is the one with the most bills against that provider.

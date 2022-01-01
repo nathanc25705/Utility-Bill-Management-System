@@ -8,12 +8,12 @@ This interface satisifes the following requirements:
 2.	Start your code with the initial bills.csv above.  However, you need to provide a mechanism for writing and reading these utility bills to a text file.
 This option should be provided via a menu choice.
 3.	Provide a report that lists years, total credited and total debited, e.g., the output will look like the following:
-4.	
-Year		Total Credited	Total Debited
 
-2016		€123.45		€678.90
+  Year		Total Credited	Total Debited
 
-2017		€543.21		€987.60
+  2016		€123.45		€678.90
+
+  2017		€543.21		€987.60
 
 4.	Provide a report that shows the most popular utility company.  The most popular utility company is the one with the most bills against that provider.
 5.	Provide a report that shows the bills in date order.
